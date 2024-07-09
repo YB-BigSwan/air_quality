@@ -91,11 +91,11 @@ void displayInfoText() {
   String values[] = { String(co2, 0) + "ppm", String(temp, 1) + "C", String(voc, 0) + "ppb", String(humidity, 1) + "%" };
   int numRows = 2;
   int numCols = 2;
-  int cellWidth = 180 / numCols;
+  int cellWidth = 200 / numCols;
   int cellHeight = 20;
   int totalWidth = cellWidth * numCols;
-  int startX = (240 - totalWidth) / 2 - 5;
-  int yOffset = 35;
+  int startX = (240 - totalWidth) / 2 + 5;
+  int yOffset = 45;
 
   tft.setTextDatum(BC_DATUM);
 
