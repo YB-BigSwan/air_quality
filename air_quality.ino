@@ -9,8 +9,8 @@
 #include "sf_pro.h"
 
 
-const char* ssid = "( ͡° ͜ʖ ͡°)";
-const char* password = "OnePingToRuleThemAll";
+const char* ssid = "Your_SSID";
+const char* password = "Your_Password";
 
 TFT_eSPI tft = TFT_eSPI();
 const int screenWidth = 120;
@@ -33,7 +33,7 @@ void sendDataToServer(float temp, float humidity, float co2, float voc) {
   if (WiFi.status() == WL_CONNECTED) { 
     HTTPClient http; 
 
-    String serverPath = "https://air-control-25b7322984ae.herokuapp.com/sensor-data"; 
+    String serverPath = "server url goes here"; 
 
     String jsonPayload = "{\"temp\":" + String(temp) + 
                      ",\"hum\":" + String(humidity) + 
