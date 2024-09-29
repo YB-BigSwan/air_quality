@@ -10,7 +10,10 @@ Furthermore this project is made up of 4 parts which you can find in their respe
 - **[React Client](https://github.com/YB-BigSwan/air-control-frontend)**
 
 ## Table of Contents
-- [Air Quality Monitor](#introduction)
-- [AC Control Unit](#components)
-- [Server](#functionality)
-- [Client](#user-interface)
+- [Air Quality Monitor](#air-quality-monitor)
+- [AC Control Unit](#ac-control-unit)
+- [Server](#server)
+- [Client](#client)
+
+## Air Quality Monitor
+
