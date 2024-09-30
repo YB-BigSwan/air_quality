@@ -48,7 +48,7 @@ Furthermore this project is made up of 4 parts which you can find in their respe
 
 ### Challenges
 - Decoding IR signals as my AC unit's remote uses a somewhat uncommon protocol
-- Config and registration with server
+- Config and device IP registration with server
 
 ## Server
 
