@@ -1,6 +1,6 @@
 # Air Quality and Control
 
-This project started as a hobby project during Summer 2024 with the goal of helping my cat with breating issues. It continued in the Autumn as a project for the IoT Experimental Project course lead by **Heikki Hietala**.
+This project started as a hobby project during Summer 2024 with the goal of helping my cat with breathing issues. It continued in the Autumn as a project for the IoT Experimental Project course lead by **Heikki Hietala**.
 
 Furthermore this project is made up of 4 parts which you can find in their respective repositories:
 
