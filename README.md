@@ -16,7 +16,7 @@ Furthermore this project is made up of 4 parts which you can find in their respe
 - [Client](#client)
 
 ## Air Quality Monitor
-<img src="./images/air-quality.png" alt="Air quality monitoring device" width="50%"/>
+<img src="./images/air-quality.png" alt="Air control device" width="50%"/>
 
 ### Components
 - ESP32
