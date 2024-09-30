@@ -5,7 +5,7 @@ This project started as a hobby project during Summer 2024 with the goal of help
 Furthermore this project is made up of 4 parts which you can find in their respective repositories:
 
 - **[ESP32 Air Quality Monitor (You are here)](https://github.com/YB-BigSwan/air_quality)**
-- **[ESP32 AC Control Unit](https://github.com/YB-BigSwan/air_quality)**
+- **[ESP32 AC Control Unit](https://github.com/YB-BigSwan/air_control)**
 - **[Express + Node Server](https://github.com/YB-BigSwan/air-control-server)**
 - **[React Client](https://github.com/YB-BigSwan/air-control-frontend)**
 
