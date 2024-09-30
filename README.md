@@ -35,6 +35,7 @@ Furthermore this project is made up of 4 parts which you can find in their respe
 - Getting everything to fit on the device as some of the libraries and the gif header file are quite large
 
 ## AC Control Unit 
+<img src="./images/air_control.png" alt="Air quality monitoring device" width="50%"/>
 
 ### Components
 - ESP32
